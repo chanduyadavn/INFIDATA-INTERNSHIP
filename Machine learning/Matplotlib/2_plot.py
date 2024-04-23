@@ -6,3 +6,7 @@ y=np.array([0,10])
 
 plt.plot(x,y,'-o')#creating plot
 plt.show()#display the plot
+# *
+#o
+#-
+#--
